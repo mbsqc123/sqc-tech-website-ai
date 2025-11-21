@@ -13,7 +13,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
             <h1 className="text-5xl sm:text-6xl font-serif font-bold leading-tight">
-  Legal Futurism - Where Law, AI, Media and Creative Vision Converge
+  Your AI advantage. SQC Technology partners with businesses to unlock the power of intelligent automation.
 </h1>
 <p className="mt-6 text-xl text-gray-300 max-w-xl">
   Welcome to SQC Technology
